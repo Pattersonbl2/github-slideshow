@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"When you find yourself out make sure you safe"
 Use the left arrow to go back!
